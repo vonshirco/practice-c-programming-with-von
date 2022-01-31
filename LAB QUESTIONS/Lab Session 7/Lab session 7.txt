@@ -1,0 +1,21 @@
+Lab Q24
+	Complete the following C program to print the contents of the array using pointers
+	#include<stdio.h>
+	main(){
+	int k;
+	float thearr[] = {2.5, 5, 6.7, 10, 13.3, 25, 0};
+	...
+	...
+	}
+
+Lab Q25
+	Populate the array "multiarr" with the elements in the array "thearr" by multiplying each element in "thearr" by 3.
+	Use pointers to perform the multication of "thearr" array elements
+	#include<stdio.h>
+	main(){
+	int k;
+	float multiarr[7];
+	float thearr[] = {2.5, 5, 6.7, 10, 13.3, 25, 0};
+	...
+	...
+	}

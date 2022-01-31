@@ -1,0 +1,25 @@
+
+CS 174: PROGRAMMING IN C 
+LAB SESSION 8
+***********************************************
+
+Lab Q26
+	Write a function that takes in a value for radius and returns the area of a circle
+
+
+Lab Q27
+	Write a function that takes the age of a person and check whether it is between 0 and 100. 
+	It should return 1 if the age is within the range and 0 if the age is beyond that 
+
+Lab Q28
+	Write a function that takes in address of the first address of array and an integer value for the array size.
+	The function should then subtract 7 from each element, but should return nothing. 
+
+
+Lab Q29 
+	Write a function that takes in address of the first address of array and an integer value for the array size.
+	The function should then each element by two and, later, return the address of the first element. 
+
+Lab Q30
+	Write a function that takes in two floating point numbers and an integer for option. If the option supplied by the user is 1
+	the program should return the product of the floating point numbers and if the option is 2, it should retun the sum

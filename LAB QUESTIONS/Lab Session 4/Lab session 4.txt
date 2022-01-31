@@ -1,0 +1,20 @@
+/***********  CS 174: PROGRAMMING IN C  ***************/
+LAB SESSION 4
+
+Lab Q14
+	write a program that prints a phrase "PROGRAMMING IS FUN" seven times
+
+Lab Q15
+	Write a program that prints even integers from 5 to 11
+
+Lab Q16
+	Write a program that prints even numbers between 10 and 20, inclussive
+	
+Lab Q17 
+	Write  program that prints the sum of the odd numbers between min and max 
+	value, where the min and max values are given by the user
+
+Lab Q18
+	Write a program that prints the sum of either odd or even numbers between a 
+	range that the user provides. The user shall also decide whether they want 
+	for odd or even

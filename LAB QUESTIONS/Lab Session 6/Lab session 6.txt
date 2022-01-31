@@ -1,0 +1,23 @@
+Lab Q19
+	Write a program that accept the marks for 5 students and store them in an array
+
+Lab Q20
+	Write a program that accept marks for students and store them in an array. The number of students to be provided by the user
+
+Lab Q21	
+	Write a program that accept marks for students for two subjects and store them in an array. 
+	The number of students to be provided by the user
+		
+Lab Q22
+	Write a programme, using arrays, that accepts marks of a test from a number of students marks (the number of students to 
+	be provided by the user) and deduct 7 from each. If the resulting mark for an individual is less than 40, it should set 
+	the marks to be 40
+
+Lab Q23 
+	Write a program that accepts marks for students in an array, the size of the array to be given by the user and 
+	compute from the marks, the mean mark, and the average deviation of marks from th mean. 
+	Thus if, for example, the mean was 50, the program is to compute the difference of each mark and 50 and 
+	add these differences and later find their average
+
+
+

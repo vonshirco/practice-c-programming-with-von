@@ -1,0 +1,35 @@
+
+/***********  CS 174: PROGRAMMING IN C  ***************/
+LAB SESSION 2
+
+Lab Q5
+	Write a program that prints "Hello Mandela, you are 100 years old" 
+	where; Name is entered by user as well as  year of birth from which 
+	age is computed
+
+Lab Q6
+	Write a program that takes from user the radius of a sphere and 
+	print out the surface area of that sphere. Using ternary operators, 
+	the progam should first check if the radius is not a number below 0
+
+Lab Q7
+	Write a Program that checks the age of a child. If the age is below zero, 
+	or above 10, the program should print "WRONG ENTRY", otherwise it should 
+	print "VALID AGE"
+
+Lab Q8
+	Write a program that takes in the principle, rate and time and then compute 
+	simple interest. The program should, however, check the size of the interest. 
+	If the interest is greater than 10 it should say "UNACCEPTABLE RATE", otherwise 
+	it prints the simple interst
+
+		********************************
+		
+
+
+
+
+
+
+
+

@@ -1,0 +1,131 @@
+Lab2
+	Write a program that prints your full name and your 
+	Registration Number in the format
+
+		Firstname Middlename Lastname
+		2020-04-09187
+Lab3
+	Study the program
+
+		#include<stdio.h>
+		main(){
+			int num1; //reserve memory space for num1
+			int num2; //reserve memory space for num2
+			int sum; //reserve memory space for sum, where you will put the result
+			printf("Enter Number 1:\t"); // write on the monitor
+			scanf("%d",&num1);	// accepting through the keyboard
+			printf("Enter Number 2:\t");
+			scanf("%d",&num2);
+			sum = num1 + num2;
+			printf("The sum is %d\n", sum);
+		}	
+
+	Then write yours which does multiplication of two numbers and print on the screen 
+
+Lab Q4
+	Write a program that takes from user the radius of a circle 
+	and print out the area of that cicle
+
+Lab Q5
+	Write a program that prints "Hello Mandela, you are 100 years old" 
+	where; Name is entered by user as well as  year of birth from which 
+	age is computed
+
+Lab Q6
+	Write a program that takes from user the radius of a sphere and 
+	print out the surface area of that sphere. Using ternary operators, 
+	the progam should first check if the radius is not a number below 0
+
+Lab Q7
+	Write a program that takes password from users and check, if password 
+	is less that seven, you print "TOO SHORT" otherwise, you print "STRONG"
+
+Lab Q8
+	Write a program that takes in Name of a person and age. The requirements are such that name should be longer than 12 characters
+	and age to be more than 18 years. If this is true the program should print "THANK YOU" otherwise, it should print "WRONG ENTRY"
+
+	
+Lab Q9
+	Convert the following program into using a “while loop” in place of the “for loop”.   
+		#include <stdio.h>
+		main(){
+			inti, sum = 0;
+			for(i=0; i<10; i++){
+				if(i%2 != 0) continue; 
+				sum = sum + i;
+			} 
+			printf(" The sum is %d\n", sum);
+		}
+
+Lab Q10
+	Write  a C program in which the user enters his/her salary and the program computes the relevant tax according to the table below
+		SALARY RANGE			TAX (%)	
+		<= 170,000			0%
+		170,000 - 360,000		11%
+		360,000	- 540,000		20%
+		540,000 - 720,000		25%
+		> 720,000 			30%
+Lab Q12
+	Write a program that accept a number of elements of a given array and then compute the mean value of such elements
+
+Lab Q13	
+	Write a program that accepts marks for students in an array, the size of the array to be given by the user and 
+	compute from the marks, the mean mark, and the average deviation of marks from th mean. 
+	Thus if, for example, the mean was 50, the program is to compute the difference of each mark and 50 and 
+	add these differences and later find their average
+
+Lab Q14
+	Write a programme, using arrays, that accepts marks of a test from a number of students marks (the number of students to 
+	be provided by the user) and deduct 7 from each. If the resulting mark for an individual is less than 40, it should set 
+	the marks to be 40
+
+Lab Q15
+	Complete the following C program to print the contents of the array using pointers
+	#include<stdio.h>
+	main(){
+	int k;
+	float thearr[] = {2.5, 5, 6.7, 10, 13.3, 25, 0};
+	...
+	...
+	}
+Lab Q16
+	Populate the array "multiarr" with the elements in the array "thearr" by multiplying each element in "thearr" by 3.
+	Use pointers to do perform the multication of "thearr" array
+	#include<stdio.h>
+	main(){
+	int k;
+	float multiarr[7];
+	float thearr[] = {2.5, 5, 6.7, 10, 13.3, 25, 0};
+	...
+	...
+	}
+
+lab Q17
+	Write a function that takes in year of birth and return a person's age
+
+Lab Q18
+	Write a function that takes in a value for radius and gives out the area of a circle
+
+Lab Q19
+
+	Write a function whcih takes in the the side of a square and a choice. If choice is 1 the function should
+	return the area of the square while if choice is 2 the function should return the perimeter of the square 
+
+Lab Q20
+	Write a function that takes in address of the first address of array and work to multiply all the arrays by 3
+	the function should then return the address of the first element for the multiplied array
+
+Lab Q21
+	Write a function that takes in two floating point numbers and an integer for option. If the option supplied by the user is 1
+	the program should return the product of the floating point numbers and if the option is 2, it should retun the sum
+
+Lab Q22
+	- Define a structure that can be used to manage data for computers with attributes; Brand, HDD size, Price and Screen size.
+	- Declare an array whose type is the structure you have defined above
+	- Using a for loop, write a program that can be used to prompt users to enter the computer records
+
+Lab Q23
+	Define a function for computers which will have, as its attributes; fit-for-use region and number of units available. This stucture 
+	should also nest the structure defined in Lab 17 above.
+	- Declare a variable whose type is the structure you defined
+	- Write a program that can be used to enter data for the variable you declared above.

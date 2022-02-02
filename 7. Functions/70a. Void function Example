@@ -1,0 +1,19 @@
+#include <stdio.h>
+
+/*Void function returns nothing, it does a 
+certain task but it doesn't do computation and 
+return a value*/
+  
+//Defining the function
+void myFunct(int a){
+  printf("The number entered is %d", a);
+}
+
+main(){
+  int num;
+  
+  printf("Enter the number: ");
+  scanf("%d", &num);
+  
+  myFunct(num); //calling the function
+}

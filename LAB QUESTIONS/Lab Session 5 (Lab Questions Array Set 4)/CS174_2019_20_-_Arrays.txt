@@ -1,0 +1,19 @@
+CS174: Programming in C 2019/20
+LAB Questions – Arrays
+Set 4
+
+Question 1
+Write a program to enter 20 floating numbers in an array and display it.
+
+Question 2
+Write a program to display largest and smallest element of an array defined in Q.No. 1.
+
+Question 3
+Write a program to initialize one dimensional array of size 10 and display the sum and
+average of array elements.
+
+Question 4
+Write a program to read two matrices of order 4 * 2, add them and display the resultant
+Matrix in Matrix form.
+
+== END ==

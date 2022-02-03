@@ -1,0 +1,46 @@
+
+/***********  CS 174: PROGRAMMING IN C  ***************/
+LAB SESSION 3
+
+Lab Q9
+	Write a program where your user enters a string and you print out the number
+	of characters in that string
+
+Lab Q10
+	Write a program that takes password from users and check, if password 
+	is less that seven, you print "TOO SHORT" otherwise, you print "STRONG"
+
+Lab Q11
+	Write a program that takes in Name of a person and age. 
+	The requirements are such that name should be longer than 12 characters
+	and age to be more than 18 years. 
+	If this is true the program should print "THANK YOU" 
+	otherwise, it should print "WRONG ENTRY"
+
+Lab Q12
+	Write  a C program in which the user enters his/her salary and the program computes the relevant tax according to the table below
+		SALARY RANGE			TAX (%)	
+		<= 170,000			0%
+		170,000 - 360,000		11%
+		360,000	- 540,000		20%
+		540,000 - 720,000		25%
+		> 720,000 			30%
+
+Lab Q13
+	Write a program in which the user enters a number for different choices, where;
+	for 2, the program should pring certificate
+	for 3, the program should print diploma
+	for 4, it should print bachelor
+	for 6, it should print masters
+	Otherwise it should say "wrong entry"
+
+		********************************
+		
+
+
+
+
+
+
+
+

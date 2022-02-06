@@ -14,7 +14,8 @@ main(){
 	//struct computer c1 = {"Dell Inspiron, Intel Core",35,150,2.32};
 	//Or 
 	struct computer c1;
-	c1.name = "Dell Inspiron";
+	strcpy(c1.name, "Dell Inspiron"); 
+	//c1.name = "Dell Inspiron"; //We used strcpy above because in the LHS we used an array type which is not assignable
 	c1.stock = 35;
 	c1.price = 150;
 	c1.discount = 2.32;

@@ -2,9 +2,9 @@
 
 This is a special repo designed for C Programming Language students who want to dive and learn the basics of the language.
 
-This repo is carefully designed so that it covers the basics from simple to complex 😁 but its easy to understand whether you are coming from another language or new to programming
+This repo is carefully designed so that it covers the basics from simple to complex 😁 but its easy to understand whether you are coming from another language or new to programming.
 
-The numbered folders indicates the fundamental basics of the language and the lab session folder contains some practice questions with solution where you can get your hands-on practice and learn the language
+The numbered folders indicates the fundamental basics of the language and the lab session folder contains some practice questions with solution where you can get your hands-on practice and learn the language.
 
 # Contributing to this repo
 

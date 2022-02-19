@@ -1,6 +1,6 @@
 # Practice C Programming with von
 
-This is a special repo designed for C Programming Language students who want to dive and learn the basics of the language
+This is a special repo designed for C Programming Language students who want to dive and learn the basics of the language.
 
 This repo is carefully designed so that it covers the basics from simple to complex 😁 but its easy to understand whether you are coming from another language or new to programming
 

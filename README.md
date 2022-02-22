@@ -21,3 +21,7 @@ The numbered folders indicates the fundamental basics of the language and the la
 4. 😁 Contribute much so others can learn this interesting language
 
 Read the docs more about C Programming Language [here](https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language.)
+
+Any Question or Contradiction about any code you may [ask](https://github.com/vonshirco/practice-c-programming-with-von/issues)
+
+https://github.com/vonshirco/practice-c-programming-with-von/issues
